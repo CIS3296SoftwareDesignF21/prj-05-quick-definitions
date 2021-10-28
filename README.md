@@ -34,3 +34,5 @@ Main branch is locked, requiring approval from the other two team memebers. Proj
 
   3. Jose doesn't need it because he could care less, however he thinks it is super cool. He is downloading it for the fun of it. He works as a mechanic for a Honda dealership in Miami, Florida. Part of his job is filling out paperwork on the computer in the back, and while he is there, he reads from instruction manuals online. He is interested in this as a compliment to his job, though he doesn't really need it. He does it for fun rather than function, as he could just as easily open up dictionary.com.
 
+### First Release
+
