@@ -1,4 +1,11 @@
 # Project Scrum Pregame (2021 October 28)
+## Meeting Times
+Monday: After class 4:50 PM - 5:15 PM EST
+
+Wednsday: After class 4:50 PM - 5:15 PM EST
+
+Can be adjusted if issues arise.
+
 ## Part 1 - Team Assignment
 Trello Board Link: https://trello.com/invite/b/DXqduADz/9aab756b493e6334b746fb2c0cba5f17/quick-definitions-web-extension
 
