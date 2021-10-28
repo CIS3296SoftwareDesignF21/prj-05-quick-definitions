@@ -32,3 +32,5 @@ Main branch is locked, requiring approval from the other two team memebers. Proj
 
   2. Greg is an SAT tutor in Palm Spring, California. While teaching high-schoolers good essay writing skills, it is important that he stay up to date on definitions of words that he comes across while grading test essays. He primarily uses his computer to grade these essays over Canvas. While grading, he may sometimes have dozens of tabs open at a time. His students often use words that he is unfamiliar with, and it would be nice if he could quickly get a definition without having to navigate around so much. This can save him time, and energy.
 
+  3. Jose doesn't need it because he could care less, however he thinks it is super cool. He is downloading it for the fun of it. He works as a mechanic for a Honda dealership in Miami, Florida. Part of his job is filling out paperwork on the computer in the back, and while he is there, he reads from instruction manuals online. He is interested in this as a compliment to his job, though he doesn't really need it. He does it for fun rather than function, as he could just as easily open up dictionary.com.
+
