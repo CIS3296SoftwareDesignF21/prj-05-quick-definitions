@@ -16,13 +16,13 @@ Main branch is locked, requiring approval from the other two team memebers. Proj
   While using a Web Browser, when the user encounters a word, in which they are not sure what it means, the word can be highlighted, and then either by right-clicking with the mouse, or by key shortcut, will reveal the definition of the word. The definition will be displayed as a small pop-up on the screen, rather than redirecting to dictionary.com.
 
 ### Installation instructions
-  1. Clone this repository
+  1. Download the latest release and extract it
   2. Open Google Chrome
   3. Navigate to Settings
   4. Select the Extensions tab
   5. Enable Developer Mode by using the toggle in the top right
   6. Click the button "Load Unpacked"
-  7. Navigate to the directory where you cloned the repository
+  7. Navigate to the directory where you extracted the release
 
 ### How to build instructions
   They have to install it, and then the extension just runs.
