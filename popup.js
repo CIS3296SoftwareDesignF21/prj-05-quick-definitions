@@ -18,5 +18,5 @@ getDataForWord(word)
             console.log(data[0].meanings[i].definitions[0].definition);
             meanings.push(data[0].meanings[i]);
         }
-        alert([word, meanings[0].partOfSpeech, meanings[0].definitions[0].definition]);
+        //alert([word, meanings[0].partOfSpeech, meanings[0].definitions[0].definition]);
     });
