@@ -12,7 +12,13 @@
     "icons": {
         
     },
+    "permissions": [
+        "contextMenus"
+    ],
     "host_permissions": [
         "https://api.dictionaryapi.dev/"
-    ]
+    ],
+    "background": {
+        "service_worker": "contextMenu.js"
+    }
 }
