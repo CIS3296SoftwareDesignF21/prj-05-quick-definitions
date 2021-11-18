@@ -1,28 +1,33 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <link rel="stylesheet" href="popup.css">
-	<script src= "updateSelected.js"></script>
+    <link rel = "stylesheet" href = "popup.css">
+	<script src = "updateSelected.js"></script>
+	<script src = ""></script>
   </head>
   <body>
     <div>
         <h1>Choose dictionary or thesaurus:</h1>
-		<hr class= "solid">
-		<div id= "highlightedWord">
+		<hr class = "solid">
+		<div id = "highlightedWord">
 			Current Word: 
+			<div id = "definition">
+			</div>
+			<div id = "thesaurus">
+			</div>
 		</div>
-		<hr class= "solid">
+		<hr class = "solid">
         <div>
-            <button id="dictionary_com">
+            <button id = "dictionary_com">
                  Dictionary
             </button>
-            <button id="thesaurus_com">
+            <button id = "thesaurus_com">
                  Thesaurus 
             </button>
         </div>
     </div>
-	<hr class= "solid">
-	<div id= "selectedButton">
+	<hr class = "solid">
+	<div id = "selectedButton">
 		Selected: 
 	</div>
   </body>
