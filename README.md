@@ -42,3 +42,7 @@ Main branch is locked, requiring approval from the other two team memebers. Proj
 
 ### First Release
 
+
+### UML Sequence Diagram
+
+![Sequence_Diagram](https://user-images.githubusercontent.com/12466823/142452374-8a31a2ff-d658-4156-8f21-737814ab1d21.png)
