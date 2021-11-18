@@ -42,3 +42,9 @@ Main branch is locked, requiring approval from the other two team memebers. Proj
 
 ### First Release
 
+
+### UML Sequence Diagram
+
+![Sequence_Diagram](https://user-images.githubusercontent.com/12466823/142452374-8a31a2ff-d658-4156-8f21-737814ab1d21.png)
+
+  This sequence diagram shows the process that occurs when the user clicks the "Define word" menu item from the context menu. First an onClick event occurs within contextMenu.js. Then contextMenu.js will call code from popup.js to display the definitions for the word the user selected. After that, popup.js will call its own function to get the data from the API. Within that function a call is made to the API to fetch all of the data for the word. After the data is fetched, popup.js will call another one of its functions to display each definition within the popup page.
