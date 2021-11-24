@@ -13,7 +13,8 @@
         
     },
     "permissions": [
-        "contextMenus"
+        "contextMenus",
+        "storage"
     ],
     "host_permissions": [
         "https://api.dictionaryapi.dev/"
