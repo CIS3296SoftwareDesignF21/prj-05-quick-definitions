@@ -8,10 +8,13 @@ chrome.runtime.onInstalled.addListener(() => {
     chrome.contextMenus.create(contextMenuItem);
 });
 
-function printSelectedText(clickData) {
+function storeSelectedWord(clickData) {
     if (clickData.menuItemId == "defineWord") {
-        console.log(clickData.selectionText);
+        let word = clickData.selectionText.split(' ')[0];
+        chrome.storage.local.set({"wordToDefine": word}, function() {
+            console.log('Word has been saved: ' + word);
+        });
     }
 }
 
-chrome.contextMenus.onClicked.addListener(printSelectedText);
+chrome.contextMenus.onClicked.addListener(storeSelectedWord);
