@@ -1,5 +1,9 @@
 chrome.runtime.onInstalled.addListener(() => {
 
+    chrome.storage.local.set({"state": "dictionary"}, function() {
+        console.log('State has been set to dictionary');
+    });
+
     let contextMenuItem = {
         "id": "defineWord",
         "title": 'Define "%s"',
